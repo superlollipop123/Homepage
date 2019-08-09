@@ -24,6 +24,8 @@
     
 5. Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and Chenglong Li . A Subspace Learning Approach to Multi-Shot Person Re-Identification. IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), in press.
 
+6. Aihua Zheng, Naipeng Ye, Chenglong Li, Xiao Wang, and Jin Tang. Multi-modal Foreground Detection via Inter- and Intra-Modality-Consistent Low-Rank Separation. Neurocomputing (**NEUCOM**), in press.
+
 
 ### 2019
 
